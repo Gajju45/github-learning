@@ -1,2 +1,5 @@
-public class AA git {
+public class AA  {
+    public static void main(String[] args) {
+        System.out.println("hii");
+    }
 }
