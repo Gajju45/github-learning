@@ -1,4 +1,4 @@
-public class FeatureClass1 {
+public class FeatureClass2 {
     public static void main(String[] args) {
         System.out.println("feature class");
     }
